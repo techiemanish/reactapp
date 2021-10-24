@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+p{
+	font-size:20px;
+	color: red;
+}
+ol{
+	color: dodgerblue;
+	border: 1px solid black;
+	width : 250px;
+	height : 220px;
+	padding: 10px;
+	margin : 10px;
+}
+
+.api{
+	float: left;
+	padding: 10px;
+}
